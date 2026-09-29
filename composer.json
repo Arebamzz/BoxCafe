@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stripe/stripe-php": "^18.0",
+        "phpmailer/phpmailer": "^7.0",
+        "twilio/sdk": "^8.8"
+    }
+}
